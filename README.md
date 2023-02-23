@@ -4,4 +4,4 @@ Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
 ![This is an image](imagem.png)
 
-![This is an image](/IMG/peppa.png)
+![This is an image](IMG/peppa.jfif)
